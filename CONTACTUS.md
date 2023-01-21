@@ -2,6 +2,8 @@
 layout: default
 ---
 
-## Contact Us
+## Contact Me
 
-[Back to Main](./)
+if you are not interested in doing so
+
+[Back to Main](./README.md)
