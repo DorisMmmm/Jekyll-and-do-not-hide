@@ -1,4 +1,6 @@
-# Jekyll-and-do-not-hide
+###### [Info](./MONOLITHIC.md)&nbsp; [GitHub](./GITHUB.md)&nbsp; [Hobbies](./HOBBIES.md)&nbsp; [Contact](./CONTACTUS.md)&nbsp; [FAQ](./FAQ.md)&nbsp; [About](./ABOUT.md)&nbsp;
+
+#### Jekyll-and-do-not-hide
 
 
 
