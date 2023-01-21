@@ -1,7 +1,7 @@
 ---
 name: Issue Assignment
 
-On:
+on:
     issues:
         types: [opened]
         
